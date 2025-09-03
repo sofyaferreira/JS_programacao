@@ -1,6 +1,4 @@
-var n;
-
-n = parseInt(prompt("Digite um número: "))
+n = parseFloat(prompt("Digite um número: "))
 r = n*3
 
 if (n <= 3){
